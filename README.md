@@ -2,6 +2,8 @@
 ##### usage
 - just run the rgp
 
-    ./rgp.py
+```
+        ./rgp.py
+```
 
 - now just clear and generate a new log
