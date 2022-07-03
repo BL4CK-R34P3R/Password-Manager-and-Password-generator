@@ -1,3 +1,4 @@
+![rgp](./rgp.png)
 # PassWord generator and Manager
 ## Instalation
 ```bash
